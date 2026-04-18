@@ -1,4 +1,5 @@
 {
-"version": "1.0.0",
-"download_url": "https://example.com/setup.exe",
-"me
+"version": "1.1.0",
+"download_url": "https://github.com/TechFixSolutions/Software_Update/releases/download/v1.1.0/Techfix.Inventory.Setup.exe",
+"message": "New update available"
+}
